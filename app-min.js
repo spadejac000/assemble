@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(e){console.log("ready!"),fetch("./FED_Books.json").then(function(e){return e.json()}).then(function(e){console.log(e.items[0].volumeInfo.title),document.getElementsByClassName("titles-group-1")[0].innerHTML=e.items[0].title})});
