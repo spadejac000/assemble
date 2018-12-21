@@ -1,1 +1,1 @@
-*{margin:0;padding:0}#movieList{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;grid-gap:1em}img{height:198px;width:132px}
+*{margin:0;padding:0}#movieList{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;grid-gap:1em}img{height:198px;width:132px}.footer{height:200px;display:grid;grid-template-columns:1fr 2fr;padding-top:3em}.footer-links-list{display:grid;grid-template-columns:1fr 1fr 1fr;text-align:center}.footer-links{list-style:none}.footer-links a{color:#333}
